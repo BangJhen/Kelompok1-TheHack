@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+# import matplotlib.pyplot as plt  # Temporarily commented out due to compatibility issue
+# import seaborn as sns  # Temporarily commented out due to compatibility issue
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
