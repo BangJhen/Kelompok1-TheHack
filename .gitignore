@@ -1,1 +1,2 @@
 model/*.pklmodel/best_model_*.pkl
+model/best_model_RandomForest.pkl
